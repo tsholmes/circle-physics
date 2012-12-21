@@ -1,4 +1,4 @@
-package phsyics;
+package physics;
 
 import java.util.Arrays;
 import java.util.Comparator;

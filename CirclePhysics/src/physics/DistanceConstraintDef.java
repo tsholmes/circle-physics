@@ -1,4 +1,4 @@
-package phsyics;
+package physics;
 
 public class DistanceConstraintDef {
 	public Circle c1;

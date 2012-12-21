@@ -1,4 +1,4 @@
-package phsyics;
+package physics;
 
 public class ObjectPool {
 	private final int initialSize;

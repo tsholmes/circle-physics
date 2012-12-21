@@ -1,4 +1,4 @@
-package phsyics;
+package physics;
 
 public class CircleDef {
 	public double x = 0.0;

@@ -1,6 +1,6 @@
-package phsyics;
+package physics;
 
-import phsyics.ObjectPool.PoolObject;
+import physics.ObjectPool.PoolObject;
 
 public class ContactPoint extends ObjectPool.PoolObject {
 	public static final int INITIAL_POOL_SIZE = 1000;
